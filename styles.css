@@ -3,13 +3,13 @@ body {
     display: block;
 }
 
-main {
-
-  }
-
 p {
     font-size: 20px;
     margin: 20px 10px 15px 20px;
+}
+
+section {
+   display: block;
 }
 
 img.class {
